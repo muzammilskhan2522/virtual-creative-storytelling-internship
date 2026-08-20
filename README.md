@@ -243,6 +243,29 @@ Final Story
 
 ```
 
+# 📁 Repository Structure
+
+```text
+virtual-creative-storytelling-internship/
+│
+├── README.md
+│
+├── Week1_Virtual_Creative_Storytelling_Internship.docx
+├── Week_2_Virtual_Creative_Storytelling_Internship.docx
+├── Week_3_From_Audience_to_Enterprise_Creative_Story.docx
+├── Week_4_From_Audience_to_Enterprise_Final_Creative_Story.docx
+│
+├── narrative_arc.png
+├── opportunity_map.png
+├── value_chain.png
+│
+├── Aarohi's Character Evolution.png
+├── Character Relationship Network.png
+├── Nivara World Map.png
+└── World ↔ Character Symbiosis.png
+
+```
+
 **##🎯 Skills Demonstrated**
 
 Through this project, I developed and demonstrated skills in:
